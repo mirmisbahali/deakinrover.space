@@ -9,7 +9,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-0.160-black)](https://threejs.org/)
 
-[Live Demo](#) • [Report Bug](../../issues) • [Request Feature](../../issues)
+[Live Demo](https://deakinrover.space) • [Report Bug](../../issues) • [Request Feature](../../issues)
 
 </div>
 
@@ -35,9 +35,9 @@
 
 ## 🎯 About
 
-The Deakin Rover website is an immersive, space-themed portfolio built with cutting-edge web technologies. Featuring dynamic 3D graphics, smooth animations, and an intuitive user interface, this website showcases projects, skills, and team information in an engaging and memorable way.
-
 This website is built on top of the [space-portfolio](https://github.com/sanidhyy/space-portfolio) template created by [Sanidhya Kumar Verma](https://github.com/sanidhyy).
+
+The Deakin Rover website is an immersive, space-themed portfolio built with cutting-edge web technologies. Featuring dynamic 3D graphics, smooth animations, and an intuitive user interface, this website showcases projects, skills, and team information in an engaging and memorable way.
 
 ---
 
