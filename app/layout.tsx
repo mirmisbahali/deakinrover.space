@@ -50,12 +50,12 @@ export default function RootLayout({ children }: PropsWithChildren) {
           "height": 512
         },
         "description": "Deakin University's student-led rover team competing in the Australian Rover Challenge",
-        "foundingDate": "2020",
+        "foundingDate": "2025",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "Geelong",
           "addressRegion": "VIC",
-          "postalCode": "3220",
+          "postalCode": "3216",
           "addressCountry": "AU"
         },
         "parentOrganization": {

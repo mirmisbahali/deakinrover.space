@@ -31,7 +31,11 @@
       "purpose": "maskable any"
     }
   ],
-  "categories": ["education", "technology", "science"],
+  "categories": [
+    "education",
+    "technology",
+    "science"
+  ],
   "lang": "en-AU",
   "scope": "/",
   "id": "deakin-rover-team"
