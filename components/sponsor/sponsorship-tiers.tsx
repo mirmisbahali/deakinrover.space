@@ -100,14 +100,14 @@ export const SponsorshipTiers = () => {
                   <CurrencyDollarIcon className="h-8 w-8 text-white" />
                 </div>
                 <h3 className="font-heading text-2xl text-white mb-2">{tier.name}</h3>
-                <p className={`text-${tier.borderColor} font-semibold text-lg`}>{tier.price}</p>
+                <p className={`text-${tier.borderColor} font-semibold text-white text-lg`}>{tier.price}</p>
               </div>
 
               {/* Benefits List */}
               <div className="space-y-3 mb-8">
                 {tier.benefits.map((benefit, benefitIndex) => (
                   <div key={benefitIndex} className="flex items-start gap-3">
-                    <CheckIcon className={`h-5 w-5 text-${tier.borderColor} flex-shrink-0 mt-0.5`} />
+                    <CheckIcon className={`h-5 w-5 text-white flex-shrink-0 mt-0.5`} />
                     <span className="text-gray-300 text-sm leading-relaxed">{benefit}</span>
                   </div>
                 ))}
@@ -116,7 +116,7 @@ export const SponsorshipTiers = () => {
               {/* CTA Button */}
               <a
                 href="#contact-form"
-                className={`block w-full py-3 px-6 text-center font-heading text-sm rounded-lg transition-all ${
+                className={`block text-white w-full py-3 px-6 text-center font-heading text-sm rounded-lg transition-all ${
                   tier.popular
                     ? `bg-gradient-to-r ${tier.color} text-white hover:scale-105 hover:shadow-lg hover:shadow-${tier.bgColor}/25`
                     : `border-2 border-${tier.borderColor} text-${tier.borderColor} hover:bg-${tier.bgColor} hover:text-white`
