@@ -224,7 +224,7 @@ export const SponsorContactForm = () => {
                   </div>
                 </div>
 
-                {/* Interests */}
+                {/* Interests
                 <div>
                   <label className="block text-white font-heading mb-4">
                     Areas of Interest (Select all that apply)
@@ -243,7 +243,7 @@ export const SponsorContactForm = () => {
                       </label>
                     ))}
                   </div>
-                </div>
+                </div> */}
 
                 {/* Message */}
                 <div>
