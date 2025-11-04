@@ -25,7 +25,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/deakinrover",
+        link: "https://github.com/mirmisbahali/deakin_rover",
       },
     ],
   },
@@ -82,5 +82,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/deakin_rover",
+  sourceCode: "https://github.com/mirmisbahali/deakin_rover",
 };
