@@ -182,7 +182,7 @@ export const SponsorContactForm = () => {
                       value={formData.phone}
                       onChange={(e) => setFormData(prev => ({ ...prev, phone: e.target.value }))}
                       className="w-full px-4 py-3 bg-gray-900/50 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:border-purple-500 focus:ring-1 focus:ring-purple-500 transition-colors"
-                      placeholder="+1 (555) 123-4567"
+                      placeholder="+61 123-4567"
                       name="phone"
                     />
                   </div>
